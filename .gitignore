@@ -1,0 +1,6 @@
+.nfs*
+**/.nfs*
+__pycache__/
+**/__pycache__/
+*.pyc
+mengfu_state.json
